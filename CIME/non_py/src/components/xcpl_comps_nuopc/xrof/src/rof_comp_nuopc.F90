@@ -207,6 +207,7 @@ contains
        call fld_list_add(fldsToRof_num, fldsToRof, 'Flrl_rofdto')
        call fld_list_add(fldsToRof_num, fldsToRof, 'Flrl_rofi')
        call fld_list_add(fldsToRof_num, fldsToRof, 'Flrl_irrig')
+       call fld_list_add(fldsToRof_num, fldsToRof, 'Flrl_rofdom')
 
        do n = 1,fldsFrRof_num
           if(mastertask) write(logunit,*)'Advertising From Xrof ',trim(fldsFrRof(n)%stdname)
