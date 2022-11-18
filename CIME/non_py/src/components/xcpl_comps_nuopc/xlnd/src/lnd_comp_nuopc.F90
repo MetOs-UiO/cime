@@ -230,7 +230,7 @@ contains
        call fld_list_add(fldsFrLnd_num, fldsFrlnd, 'Flrl_rofsub'   )
        call fld_list_add(fldsFrLnd_num, fldsFrlnd, 'Flrl_rofi'     )
        call fld_list_add(fldsFrLnd_num, fldsFrlnd, 'Flrl_irrig'    )
-       call fld_list_add(fldsFrLnd_num, fldsFrlnd, 'Flrl_rofdom'   )
+       call fld_list_add(fldsFrLnd_num, fldsFrlnd, 'Flrl_rofdoc'   )
        call fld_list_add(fldsFrLnd_num, fldsFrlnd, 'Fall_taux'     )
        call fld_list_add(fldsFrLnd_num, fldsFrlnd, 'Fall_tauy'     )
        call fld_list_add(fldsFrLnd_num, fldsFrlnd, 'Fall_lat'      )
