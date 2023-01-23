@@ -1,0 +1,5 @@
+paramfile = '/cluster/shared/noresm/inputdata_emerald/marlam/ALP1/clm50_params.c211112.nc'
+do_harvest = .false.
+check_dynpft_consistency = .false.
+hist_mfilt=1
+hist_nhtfrq=0
